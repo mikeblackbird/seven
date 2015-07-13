@@ -1,0 +1,1683 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elegantia Theme\n"
+"POT-Creation-Date: 2015-01-01 17:06+0500\n"
+"PO-Revision-Date: 2015-01-01 17:06+0500\n"
+"Last-Translator: Saqib <saqib@inspirythemes.com>\n"
+"Language-Team: Saqib <saqib@inspirythemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404: Page Not Found"
+msgstr ""
+
+#: 404.php:22
+msgid "The page you are looking for is not here!"
+msgstr ""
+
+#: 404.php:23
+msgid "Please try top navigation for what you are looking for!"
+msgstr ""
+
+#: admin/admin-interface.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin-interface.php:143
+msgid "SAVE ALL CHANGES"
+msgstr ""
+
+#: admin/admin-interface.php:148
+msgid "RESET"
+msgstr ""
+
+#: admin/admin-interface.php:1000
+msgid "Upload Image"
+msgstr ""
+
+#: admin/admin-interface.php:1004
+msgid "Remove"
+msgstr ""
+
+#: admin/theme-settings.php:81
+msgid "Header"
+msgstr ""
+
+#: admin/theme-settings.php:85
+msgid "Logo"
+msgstr ""
+
+#: admin/theme-settings.php:86
+msgid "Upload logo for your Website."
+msgstr ""
+
+#: admin/theme-settings.php:92
+msgid "Favicon"
+msgstr ""
+
+#: admin/theme-settings.php:93
+msgid ""
+"Upload a 16px by 16px PNG image that will represent your website favicon."
+msgstr ""
+
+#: admin/theme-settings.php:98
+msgid "Address Text"
+msgstr ""
+
+#: admin/theme-settings.php:99
+msgid "Provide header address text."
+msgstr ""
+
+#: admin/theme-settings.php:101
+msgid "Las Angeles, AV 123456 - 123.456.7800"
+msgstr ""
+
+#: admin/theme-settings.php:104
+msgid "Reservation Text"
+msgstr ""
+
+#: admin/theme-settings.php:105
+msgid "Provide header reservation text."
+msgstr ""
+
+#: admin/theme-settings.php:107
+msgid "Call 023 7526 8539  or Make Online Reservation"
+msgstr ""
+
+#: admin/theme-settings.php:110
+msgid "Reservation Button Text"
+msgstr ""
+
+#: admin/theme-settings.php:111
+msgid "Provide header reservation button text."
+msgstr ""
+
+#: admin/theme-settings.php:113
+msgid "MAKE  RESERVATION NOW"
+msgstr ""
+
+#: admin/theme-settings.php:116
+msgid "Reservation Button Target Link"
+msgstr ""
+
+#: admin/theme-settings.php:117
+msgid "Provide header reservation button target link."
+msgstr ""
+
+#: admin/theme-settings.php:119 admin/theme-settings.php:148
+#: admin/theme-settings.php:160 admin/theme-settings.php:172
+#: admin/theme-settings.php:184 admin/theme-settings.php:196
+msgid "#"
+msgstr ""
+
+#: admin/theme-settings.php:122
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/theme-settings.php:123
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: admin/theme-settings.php:130
+msgid "Slider"
+msgstr ""
+
+#: admin/theme-settings.php:133
+msgid "Slide Image Size"
+msgstr ""
+
+#: admin/theme-settings.php:139
+msgid "1st Slide Image"
+msgstr ""
+
+#: admin/theme-settings.php:140
+msgid "Upload 1st slide image for homepage slider."
+msgstr ""
+
+#: admin/theme-settings.php:145
+msgid "1st Slide Target Link"
+msgstr ""
+
+#: admin/theme-settings.php:146
+msgid "Provide 1st slide target link."
+msgstr ""
+
+#: admin/theme-settings.php:151
+msgid "2nd Slide Image"
+msgstr ""
+
+#: admin/theme-settings.php:152
+msgid "Upload 2nd slide image for homepage slider."
+msgstr ""
+
+#: admin/theme-settings.php:157
+msgid "2nd Slide Target Link"
+msgstr ""
+
+#: admin/theme-settings.php:158
+msgid "Provide 2nd slide target link."
+msgstr ""
+
+#: admin/theme-settings.php:163
+msgid "3rd Slide Image"
+msgstr ""
+
+#: admin/theme-settings.php:164
+msgid "Upload 3rd slide image for homepage slider."
+msgstr ""
+
+#: admin/theme-settings.php:169
+msgid "3rd Slide Target Link"
+msgstr ""
+
+#: admin/theme-settings.php:170
+msgid "Provide 3rd slide target link."
+msgstr ""
+
+#: admin/theme-settings.php:175
+msgid "4th Slide Image"
+msgstr ""
+
+#: admin/theme-settings.php:176
+msgid "Upload 4th slide image for homepage slider."
+msgstr ""
+
+#: admin/theme-settings.php:181
+msgid "4th Slide Target Link"
+msgstr ""
+
+#: admin/theme-settings.php:182
+msgid "Provide 4th slide target link."
+msgstr ""
+
+#: admin/theme-settings.php:187
+msgid "5th Slide Image"
+msgstr ""
+
+#: admin/theme-settings.php:188
+msgid "Upload 5th slide image for homepage slider."
+msgstr ""
+
+#: admin/theme-settings.php:193
+msgid "5th Slide Target Link"
+msgstr ""
+
+#: admin/theme-settings.php:194
+msgid "Provide 5th slide target link."
+msgstr ""
+
+#: admin/theme-settings.php:202
+msgid "Home"
+msgstr ""
+
+#: admin/theme-settings.php:205
+msgid "Do you want to display three columns section on homepage ?"
+msgstr ""
+
+#: admin/theme-settings.php:206 admin/theme-settings.php:325
+#: admin/theme-settings.php:399 admin/theme-settings.php:476
+#: admin/theme-settings.php:493 admin/theme-settings.php:511
+#: admin/theme-settings.php:523
+msgid "Yes"
+msgstr ""
+
+#: admin/theme-settings.php:212
+msgid "1st Column Heading"
+msgstr ""
+
+#: admin/theme-settings.php:213
+msgid "Provide 1st Column Heading Text."
+msgstr ""
+
+#: admin/theme-settings.php:215
+msgid "About Elegantia"
+msgstr ""
+
+#: admin/theme-settings.php:218
+msgid "1st Column Image"
+msgstr ""
+
+#: admin/theme-settings.php:219
+msgid ""
+"Upload 1st column image for homepage. Recommended image size is 226px by "
+"116px."
+msgstr ""
+
+#: admin/theme-settings.php:224
+msgid "1st Column Sub Heading"
+msgstr ""
+
+#: admin/theme-settings.php:225
+msgid "Provide 1st Column Sub Heading Text."
+msgstr ""
+
+#: admin/theme-settings.php:227
+msgid "Elegantia Introduction"
+msgstr ""
+
+#: admin/theme-settings.php:230
+msgid "1st Column Text Content"
+msgstr ""
+
+#: admin/theme-settings.php:231
+msgid "Provide 1st Column Text Content."
+msgstr ""
+
+#: admin/theme-settings.php:236
+msgid "1st Column Read More Text"
+msgstr ""
+
+#: admin/theme-settings.php:237
+msgid "Provide 1st Column Read More Text."
+msgstr ""
+
+#: admin/theme-settings.php:239 admin/theme-settings.php:276
+#: admin/theme-settings.php:314
+msgid "READ MORE"
+msgstr ""
+
+#: admin/theme-settings.php:242
+msgid "1st Column Read More Link"
+msgstr ""
+
+#: admin/theme-settings.php:243
+msgid "Provide 1st Column Read More link."
+msgstr ""
+
+#: admin/theme-settings.php:249
+msgid "2nd Column Heading"
+msgstr ""
+
+#: admin/theme-settings.php:250
+msgid "Provide 2nd Column Heading Text."
+msgstr ""
+
+#: admin/theme-settings.php:252 admin/theme-settings.php:483
+#: admin/theme-settings.php:489
+msgid "Our Menu"
+msgstr ""
+
+#: admin/theme-settings.php:255
+msgid "2nd Column Image"
+msgstr ""
+
+#: admin/theme-settings.php:256
+msgid ""
+"Upload 2nd column image for homepage. Recommended image size is 226px by "
+"116px."
+msgstr ""
+
+#: admin/theme-settings.php:261
+msgid "2nd Column Sub Heading"
+msgstr ""
+
+#: admin/theme-settings.php:262
+msgid "Provide 2nd Column Sub Heading Text."
+msgstr ""
+
+#: admin/theme-settings.php:264
+msgid "Elegantia Food"
+msgstr ""
+
+#: admin/theme-settings.php:267
+msgid "2nd Column Text Content"
+msgstr ""
+
+#: admin/theme-settings.php:268
+msgid "Provide 2nd Column Text Content."
+msgstr ""
+
+#: admin/theme-settings.php:273
+msgid "2nd Column Read More Text"
+msgstr ""
+
+#: admin/theme-settings.php:274
+msgid "Provide 2nd Column Read More Text."
+msgstr ""
+
+#: admin/theme-settings.php:279
+msgid "2nd Column Read More Link"
+msgstr ""
+
+#: admin/theme-settings.php:280
+msgid "Provide 2nd Column Read More link."
+msgstr ""
+
+#: admin/theme-settings.php:287
+msgid "3rd Column Heading"
+msgstr ""
+
+#: admin/theme-settings.php:288
+msgid "Provide 3rd Column Heading Text."
+msgstr ""
+
+#: admin/theme-settings.php:290 admin/theme-settings.php:507
+msgid "Special Events"
+msgstr ""
+
+#: admin/theme-settings.php:293
+msgid "3rd Column Image"
+msgstr ""
+
+#: admin/theme-settings.php:294
+msgid ""
+"Upload 3rd column image for homepage. Recommended image size is 226px by "
+"116px."
+msgstr ""
+
+#: admin/theme-settings.php:299
+msgid "3rd Column Sub Heading"
+msgstr ""
+
+#: admin/theme-settings.php:300
+msgid "Provide 3rd Column Sub Heading Text."
+msgstr ""
+
+#: admin/theme-settings.php:302
+msgid "Elegantia Events"
+msgstr ""
+
+#: admin/theme-settings.php:305
+msgid "3rd Column Text Content"
+msgstr ""
+
+#: admin/theme-settings.php:306
+msgid "Provide 3rd Column Text Content."
+msgstr ""
+
+#: admin/theme-settings.php:311
+msgid "3rd Column Read More Text"
+msgstr ""
+
+#: admin/theme-settings.php:312
+msgid "Provide 3rd Column Read More Text."
+msgstr ""
+
+#: admin/theme-settings.php:317
+msgid "3rd Column Read More Link"
+msgstr ""
+
+#: admin/theme-settings.php:318
+msgid "Provide 3rd Column Read More link."
+msgstr ""
+
+#: admin/theme-settings.php:324
+msgid "Do you want to display featured menu items on homepage ?"
+msgstr ""
+
+#: admin/theme-settings.php:330
+msgid "Testimonial Text"
+msgstr ""
+
+#: admin/theme-settings.php:331
+msgid "Provide testimonial text here."
+msgstr ""
+
+#: admin/theme-settings.php:336
+msgid "Testimonial Author"
+msgstr ""
+
+#: admin/theme-settings.php:337
+msgid "Provide testimonial author name here."
+msgstr ""
+
+#: admin/theme-settings.php:348
+msgid "Styling"
+msgstr ""
+
+#: admin/theme-settings.php:351
+msgid "Body Background"
+msgstr ""
+
+#: admin/theme-settings.php:357
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/theme-settings.php:358
+msgid "Choose a Body Text Color. Base Theme Color is #909090"
+msgstr ""
+
+#: admin/theme-settings.php:363
+msgid "Headings Color"
+msgstr ""
+
+#: admin/theme-settings.php:364
+msgid ""
+"Choose a Color for h1, h2, h3, h4, h5 and h6 tags. Base Theme Color is "
+"#824328"
+msgstr ""
+
+#: admin/theme-settings.php:369
+msgid "Selection Background Color"
+msgstr ""
+
+#: admin/theme-settings.php:370
+msgid "Choose a Background Selection Color. Base Theme Color is #f8dda8"
+msgstr ""
+
+#: admin/theme-settings.php:375
+msgid "Link Color"
+msgstr ""
+
+#: admin/theme-settings.php:376
+msgid "Choose a Link Color. Base Theme Color is #d3af80"
+msgstr ""
+
+#: admin/theme-settings.php:381
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/theme-settings.php:382
+msgid "Choose a Link Hover Color. Base Theme Color is #824328"
+msgstr ""
+
+#: admin/theme-settings.php:387
+msgid "Quick CSS"
+msgstr ""
+
+#: admin/theme-settings.php:388
+msgid ""
+"Just want to do some quick CSS changes? Enter them here, they will be "
+"applied to the theme. If you need to change major portions of the theme "
+"please use the custom.css file."
+msgstr ""
+
+#: admin/theme-settings.php:395
+msgid "Social Navigation"
+msgstr ""
+
+#: admin/theme-settings.php:398
+msgid "Do you want to show social navigation ?"
+msgstr ""
+
+#: admin/theme-settings.php:404
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-settings.php:405
+msgid "Provide Facebook link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:410
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-settings.php:411
+msgid "Provide Twitter link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:416
+msgid "Email Address"
+msgstr ""
+
+#: admin/theme-settings.php:417
+msgid ""
+"Provide your email address to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:422
+msgid "Google Plus"
+msgstr ""
+
+#: admin/theme-settings.php:423
+msgid ""
+"Provide Google Plus link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:428
+msgid "Linked In"
+msgstr ""
+
+#: admin/theme-settings.php:429
+msgid "Provide Linked In link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:434
+msgid "Pinterest"
+msgstr ""
+
+#: admin/theme-settings.php:435
+msgid "Provide Pinterest link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:440
+msgid "Instagram"
+msgstr ""
+
+#: admin/theme-settings.php:441
+msgid "Provide Instagram link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:446
+msgid "Yahoo"
+msgstr ""
+
+#: admin/theme-settings.php:447
+msgid "Provide Yahoo link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:452
+msgid "VK"
+msgstr ""
+
+#: admin/theme-settings.php:453
+msgid "Provide VK link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:458
+msgid "RSS"
+msgstr ""
+
+#: admin/theme-settings.php:459
+msgid "Provide RSS link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:466
+msgid "Blog"
+msgstr ""
+
+#: admin/theme-settings.php:469
+msgid "Blog Title"
+msgstr ""
+
+#: admin/theme-settings.php:470
+msgid "Provide the heading words for blog page."
+msgstr ""
+
+#: admin/theme-settings.php:472
+msgid "Our News"
+msgstr ""
+
+#: admin/theme-settings.php:475
+msgid "Do you want to open blog post image in lightbox ?"
+msgstr ""
+
+#: admin/theme-settings.php:486
+msgid "Our Menu Title"
+msgstr ""
+
+#: admin/theme-settings.php:487
+msgid "Provide the heading text for Our Menu related pages."
+msgstr ""
+
+#: admin/theme-settings.php:492
+msgid "Do you want to open Our Menu item image in lightbox ?"
+msgstr ""
+
+#: admin/theme-settings.php:501 include/event-post-type.php:8
+msgid "Events"
+msgstr ""
+
+#: admin/theme-settings.php:504
+msgid "Event Main Title"
+msgstr ""
+
+#: admin/theme-settings.php:505
+msgid "Provide the heading text for Event related pages."
+msgstr ""
+
+#: admin/theme-settings.php:510
+msgid "Do you want to open Event image in lightbox ?"
+msgstr ""
+
+#: admin/theme-settings.php:519
+msgid "Contact"
+msgstr ""
+
+#: admin/theme-settings.php:522
+msgid "Do you want to show Google Map on contact page template?"
+msgstr ""
+
+#: admin/theme-settings.php:527
+msgid "Google Map Latitude"
+msgstr ""
+
+#: admin/theme-settings.php:528
+msgid "Enter Google Map Latitude"
+msgstr ""
+
+#: admin/theme-settings.php:533
+msgid "Google Map Longitude"
+msgstr ""
+
+#: admin/theme-settings.php:534
+msgid "Enter Google Map Longitude"
+msgstr ""
+
+#: admin/theme-settings.php:539
+msgid "Google Map Zoom"
+msgstr ""
+
+#: admin/theme-settings.php:540
+msgid "Enter Google Map Zoom Level. Example: 17"
+msgstr ""
+
+#: admin/theme-settings.php:545
+msgid "Address"
+msgstr ""
+
+#: admin/theme-settings.php:546
+msgid "This address will appear above contact form section."
+msgstr ""
+
+#: admin/theme-settings.php:551
+msgid "Contact Form Heading"
+msgstr ""
+
+#: admin/theme-settings.php:552
+msgid "Enter heading for your contact form."
+msgstr ""
+
+#: admin/theme-settings.php:554
+msgid "Contact Us"
+msgstr ""
+
+#: admin/theme-settings.php:557
+msgid "Contact Form Text Below Heading"
+msgstr ""
+
+#: admin/theme-settings.php:558
+msgid "Enter text that will appear below heading and above contact form."
+msgstr ""
+
+#: admin/theme-settings.php:560
+msgid ""
+"Fill out the form below to send us a message and we will get back to you "
+"ASAP."
+msgstr ""
+
+#: admin/theme-settings.php:563
+msgid "Contact Email"
+msgstr ""
+
+#: admin/theme-settings.php:564
+msgid ""
+"Enter target email address that will receive messages from contact form."
+msgstr ""
+
+#: admin/theme-settings.php:572
+msgid "Reservation"
+msgstr ""
+
+#: admin/theme-settings.php:575
+msgid "Reservation Form Heading"
+msgstr ""
+
+#: admin/theme-settings.php:576
+msgid "Enter heading for your reservation form."
+msgstr ""
+
+#: admin/theme-settings.php:578
+msgid "Make Reservation Now"
+msgstr ""
+
+#: admin/theme-settings.php:581
+msgid "Reservation Form Text Below Heading"
+msgstr ""
+
+#: admin/theme-settings.php:582
+msgid "Enter text that will appear below heading and above reservation form."
+msgstr ""
+
+#: admin/theme-settings.php:584
+msgid "Fill out the form below to make reservation"
+msgstr ""
+
+#: admin/theme-settings.php:587
+msgid "Reservation Email"
+msgstr ""
+
+#: admin/theme-settings.php:588
+msgid ""
+"Enter target email address that will receive reservation requests from "
+"customers."
+msgstr ""
+
+#: admin/theme-settings.php:596
+msgid "Footer"
+msgstr ""
+
+#: admin/theme-settings.php:599
+msgid "Footer Address Text"
+msgstr ""
+
+#: admin/theme-settings.php:600
+msgid "Enter text that will appear on the right side of footer."
+msgstr ""
+
+#: admin/theme-settings.php:605
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theme-settings.php:606
+msgid "Enter Footer Copyright Text here."
+msgstr ""
+
+#: archive.php:17
+msgid "All posts in"
+msgstr ""
+
+#: archive.php:23
+msgid "All posts tagged "
+msgstr ""
+
+#: archive.php:29 archive.php:35 archive.php:41
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:48
+msgid "All posts by"
+msgstr ""
+
+#: archive.php:54
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:72 index.php:37
+msgid "No Posts Found"
+msgstr ""
+
+#: comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "(%) Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:286
+msgid "First"
+msgstr ""
+
+#: functions.php:287
+msgid "Previous"
+msgstr ""
+
+#: functions.php:296
+msgid "Next"
+msgstr ""
+
+#: functions.php:297
+msgid "Last"
+msgstr ""
+
+#: functions/contact_form_handler.php:23
+#: functions/reservation_form_handler.php:22
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: functions/contact_form_handler.php:27
+#: functions/reservation_form_handler.php:26 js/localized-js.php:87
+#: js/localized-js.php:117
+msgid "Wrong Code!"
+msgstr ""
+
+#: functions/contact_form_handler.php:34
+#: functions/reservation_form_handler.php:33
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: functions/contact_form_handler.php:45
+#: functions/reservation_form_handler.php:46
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: functions/contact_form_handler.php:48
+msgid "New message sent by"
+msgstr ""
+
+#: functions/contact_form_handler.php:48
+msgid "using contact form at"
+msgstr ""
+
+#: functions/contact_form_handler.php:50
+msgid "You have received a message from: "
+msgstr ""
+
+#: functions/contact_form_handler.php:53
+msgid "Subject : "
+msgstr ""
+
+#: functions/contact_form_handler.php:57
+#: functions/reservation_form_handler.php:54
+msgid "Phone Number : "
+msgstr ""
+
+#: functions/contact_form_handler.php:60
+#: functions/reservation_form_handler.php:69
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: functions/contact_form_handler.php:62
+#: functions/reservation_form_handler.php:71
+msgid "You can contact "
+msgstr ""
+
+#: functions/contact_form_handler.php:62
+#: functions/reservation_form_handler.php:71
+msgid " via email, "
+msgstr ""
+
+#: functions/contact_form_handler.php:69
+#: functions/reservation_form_handler.php:78 js/localized-js.php:91
+#: js/localized-js.php:121
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: functions/contact_form_handler.php:71
+#: functions/reservation_form_handler.php:80
+msgid "Server Error: WordPress mail method failed!"
+msgstr ""
+
+#: functions/contact_form_handler.php:75
+#: functions/reservation_form_handler.php:84
+msgid "Invalid Request !"
+msgstr ""
+
+#: functions/reservation_form_handler.php:49
+msgid "Reservation request sent by"
+msgstr ""
+
+#: functions/reservation_form_handler.php:49
+msgid "using reservation form at"
+msgstr ""
+
+#: functions/reservation_form_handler.php:51
+msgid "You have received a reservation request from: "
+msgstr ""
+
+#: functions/reservation_form_handler.php:58
+msgid "Number of Guests: "
+msgstr ""
+
+#: functions/reservation_form_handler.php:62
+msgid "Reservation Date : "
+msgstr ""
+
+#: functions/reservation_form_handler.php:66
+msgid "Reservation Time : "
+msgstr ""
+
+#: functions/theme_comment.php:20
+msgid "Pingback:"
+msgstr ""
+
+#: functions/theme_comment.php:20
+msgid "(Edit)"
+msgstr ""
+
+#: functions/theme_comment.php:34
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/theme_comment.php:41
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/theme_comment.php:51
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/theme_comment.php:56
+msgid "Edit"
+msgstr ""
+
+#: include/event-post-type.php:9
+msgid "Event"
+msgstr ""
+
+#: include/event-post-type.php:10 include/faq-post-type.php:9
+#: include/gallery-post-type.php:9 include/menu-item-post-type.php:9
+#: include/team-member-post-type.php:8
+msgid "Add New"
+msgstr ""
+
+#: include/event-post-type.php:11
+msgid "Add New Event"
+msgstr ""
+
+#: include/event-post-type.php:12
+msgid "Edit Event"
+msgstr ""
+
+#: include/event-post-type.php:13
+msgid "New Event"
+msgstr ""
+
+#: include/event-post-type.php:14
+msgid "View Event"
+msgstr ""
+
+#: include/event-post-type.php:15
+msgid "Search Event"
+msgstr ""
+
+#: include/event-post-type.php:16
+msgid "No Events found"
+msgstr ""
+
+#: include/event-post-type.php:17
+msgid "No Events found in Trash"
+msgstr ""
+
+#: include/event-post-type.php:33
+msgid "events"
+msgstr ""
+
+#: include/event-post-type.php:50
+msgid "Event Title"
+msgstr ""
+
+#: include/event-post-type.php:51
+msgid "Event Date"
+msgstr ""
+
+#: include/event-post-type.php:52
+msgid "Event Time"
+msgstr ""
+
+#: include/event-post-type.php:53
+msgid "Event Thumbnail"
+msgstr ""
+
+#: include/event-post-type.php:54 include/team-member-post-type.php:48
+#: template-reservation.php:70
+msgid "Date"
+msgstr ""
+
+#: include/event-post-type.php:74 include/team-member-post-type.php:67
+msgid "No Image"
+msgstr ""
+
+#: include/event-post-type.php:116
+msgid "Event Date and Time"
+msgstr ""
+
+#: include/event-post-type.php:158
+msgid "Start Date"
+msgstr ""
+
+#: include/event-post-type.php:167
+msgid "Start Time"
+msgstr ""
+
+#: include/event-post-type.php:172 include/event-post-type.php:192
+msgid "Use 24h format (7pm = 19:00)"
+msgstr ""
+
+#: include/event-post-type.php:178
+msgid "End Date"
+msgstr ""
+
+#: include/event-post-type.php:187
+msgid "End Time"
+msgstr ""
+
+#: include/faq-post-type.php:7
+msgid "FAQs"
+msgstr ""
+
+#: include/faq-post-type.php:8
+msgid "FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:10
+msgid "Add New FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:11
+msgid "Edit FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:12
+msgid "New FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:13
+msgid "View FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:14
+msgid "Search FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:15
+msgid "No FAQs found"
+msgstr ""
+
+#: include/faq-post-type.php:16
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: include/faq-post-type.php:32
+msgid "faq"
+msgstr ""
+
+#: include/gallery-post-type.php:7
+msgid "Gallery Items"
+msgstr ""
+
+#: include/gallery-post-type.php:8
+msgid "Gallery Item"
+msgstr ""
+
+#: include/gallery-post-type.php:10
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: include/gallery-post-type.php:11
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: include/gallery-post-type.php:12
+msgid "New Gallery Item"
+msgstr ""
+
+#: include/gallery-post-type.php:13
+msgid "View Gallery Item"
+msgstr ""
+
+#: include/gallery-post-type.php:14
+msgid "Search Gallery Items"
+msgstr ""
+
+#: include/gallery-post-type.php:15
+msgid "No Gallery Item found"
+msgstr ""
+
+#: include/gallery-post-type.php:16
+msgid "No Gallery Item found in Trash"
+msgstr ""
+
+#: include/gallery-post-type.php:32
+msgid "gallery-item"
+msgstr ""
+
+#: include/gallery-post-type.php:44 include/gallery-post-type.php:58
+msgid "Gallery Item Types"
+msgstr ""
+
+#: include/gallery-post-type.php:45 include/gallery-post-type.php:84
+msgid "Gallery Item Type"
+msgstr ""
+
+#: include/gallery-post-type.php:46
+msgid "Search Gallery Item Types"
+msgstr ""
+
+#: include/gallery-post-type.php:47
+msgid "Popular Gallery Item Types"
+msgstr ""
+
+#: include/gallery-post-type.php:48
+msgid "All Gallery Item Types"
+msgstr ""
+
+#: include/gallery-post-type.php:49
+msgid "Parent Gallery Item Type"
+msgstr ""
+
+#: include/gallery-post-type.php:50
+msgid "Parent Gallery Item Type:"
+msgstr ""
+
+#: include/gallery-post-type.php:51
+msgid "Edit Gallery Item Type"
+msgstr ""
+
+#: include/gallery-post-type.php:52
+msgid "Update Gallery Item Type"
+msgstr ""
+
+#: include/gallery-post-type.php:53
+msgid "Add New Gallery Item Type"
+msgstr ""
+
+#: include/gallery-post-type.php:54
+msgid "New Gallery Item Type Name"
+msgstr ""
+
+#: include/gallery-post-type.php:55
+msgid "Separate Gallery Item Types with commas"
+msgstr ""
+
+#: include/gallery-post-type.php:56
+msgid "Add or Remove Gallery Item Types"
+msgstr ""
+
+#: include/gallery-post-type.php:57
+msgid "Choose from the most used Gallery Item Types"
+msgstr ""
+
+#: include/gallery-post-type.php:69
+msgid "gallery-item-type"
+msgstr ""
+
+#: include/gallery-post-type.php:82
+msgid "Gallery Item Title"
+msgstr ""
+
+#: include/gallery-post-type.php:83 include/team-member-post-type.php:46
+msgid "Thumbnail"
+msgstr ""
+
+#: include/gallery-post-type.php:85 include/menu-item-post-type.php:88
+msgid "Publish Time"
+msgstr ""
+
+#: include/gallery-post-type.php:106 include/menu-item-post-type.php:109
+msgid "No Thumbnail"
+msgstr ""
+
+#: include/menu-item-post-type.php:7
+msgid "Food Menu"
+msgstr ""
+
+#: include/menu-item-post-type.php:8
+msgid "Menu Item"
+msgstr ""
+
+#: include/menu-item-post-type.php:10
+msgid "Add New Menu Item"
+msgstr ""
+
+#: include/menu-item-post-type.php:11
+msgid "Edit Menu Item"
+msgstr ""
+
+#: include/menu-item-post-type.php:12
+msgid "New Menu Item"
+msgstr ""
+
+#: include/menu-item-post-type.php:13
+msgid "View Menu Item"
+msgstr ""
+
+#: include/menu-item-post-type.php:14
+msgid "Search Menu Items"
+msgstr ""
+
+#: include/menu-item-post-type.php:15
+msgid "No Menu Item found"
+msgstr ""
+
+#: include/menu-item-post-type.php:16
+msgid "No Menu Item found in Trash"
+msgstr ""
+
+#: include/menu-item-post-type.php:32
+msgid "menu-item"
+msgstr ""
+
+#: include/menu-item-post-type.php:45 include/menu-item-post-type.php:59
+msgid "Menu Item Types"
+msgstr ""
+
+#: include/menu-item-post-type.php:46
+msgid "Menu Item Type"
+msgstr ""
+
+#: include/menu-item-post-type.php:47
+msgid "Search Menu Item Types"
+msgstr ""
+
+#: include/menu-item-post-type.php:48
+msgid "Popular Menu Item Types"
+msgstr ""
+
+#: include/menu-item-post-type.php:49
+msgid "All Menu Item Types"
+msgstr ""
+
+#: include/menu-item-post-type.php:50
+msgid "Parent Menu Item Type"
+msgstr ""
+
+#: include/menu-item-post-type.php:51
+msgid "Parent Menu Item Type:"
+msgstr ""
+
+#: include/menu-item-post-type.php:52
+msgid "Edit Menu Item Type"
+msgstr ""
+
+#: include/menu-item-post-type.php:53
+msgid "Update Menu Item Type"
+msgstr ""
+
+#: include/menu-item-post-type.php:54
+msgid "Add New Menu Item Type"
+msgstr ""
+
+#: include/menu-item-post-type.php:55
+msgid "New Menu Item Type Name"
+msgstr ""
+
+#: include/menu-item-post-type.php:56
+msgid "Separate Menu Item Types with commas"
+msgstr ""
+
+#: include/menu-item-post-type.php:57
+msgid "Add or Remove Menu Item Types"
+msgstr ""
+
+#: include/menu-item-post-type.php:58
+msgid "Choose from the most used Menu Item Types"
+msgstr ""
+
+#: include/menu-item-post-type.php:70
+msgid "menu-item-type"
+msgstr ""
+
+#: include/menu-item-post-type.php:83
+msgid "Menu Item Title"
+msgstr ""
+
+#: include/menu-item-post-type.php:84
+msgid "Pic"
+msgstr ""
+
+#: include/menu-item-post-type.php:85
+msgid "Type"
+msgstr ""
+
+#: include/menu-item-post-type.php:86
+msgid "Price"
+msgstr ""
+
+#: include/menu-item-post-type.php:87 include/meta-box.php:35
+msgid "Featured"
+msgstr ""
+
+#: include/meta-box.php:9 include/meta-box.php:95
+msgid "Additional Information"
+msgstr ""
+
+#: include/meta-box.php:24
+msgid "Menu Item Price"
+msgstr ""
+
+#: include/meta-box.php:31
+msgid ""
+"Please add Menu Item price with related currency sign. Example: "
+"<strong>15.50$</strong> "
+msgstr ""
+
+#: include/meta-box.php:55
+msgid "Mark this Menu Item as Featured if you want to display it on homepage."
+msgstr ""
+
+#: include/meta-box.php:110 include/team-member-post-type.php:47
+msgid "Designation"
+msgstr ""
+
+#: include/meta-box.php:117
+msgid "Provide Team Member Designation Here."
+msgstr ""
+
+#: include/meta-box.php:121
+msgid "Special"
+msgstr ""
+
+#: include/meta-box.php:141
+msgid ""
+"Mark this Team Member as Special if you want to display it on top of the "
+"team page with big image."
+msgstr ""
+
+#: include/meta-box.php:182
+msgid "Testimonial Settings"
+msgstr ""
+
+#: include/meta-box.php:199
+msgid "Testimonial"
+msgstr ""
+
+#: include/meta-box.php:203
+msgid "Provide Testimonial Text"
+msgstr ""
+
+#: include/meta-box.php:208
+msgid "Author Name"
+msgstr ""
+
+#: include/meta-box.php:212
+msgid "Provide Name of Author"
+msgstr ""
+
+#: include/meta-box.php:217
+msgid "Testimonial Author Link"
+msgstr ""
+
+#: include/meta-box.php:221
+msgid "Provide The URL to author website or page."
+msgstr ""
+
+#: include/meta-box.php:226
+msgid "Related Department"
+msgstr ""
+
+#: include/meta-box.php:230
+msgid "Provide the name of related department."
+msgstr ""
+
+#: include/team-member-post-type.php:6
+msgid "Team Members"
+msgstr ""
+
+#: include/team-member-post-type.php:7
+msgid "Team Member"
+msgstr ""
+
+#: include/team-member-post-type.php:9
+msgid "Add New Team Member"
+msgstr ""
+
+#: include/team-member-post-type.php:10
+msgid "Edit Team Member"
+msgstr ""
+
+#: include/team-member-post-type.php:11
+msgid "New Team Member"
+msgstr ""
+
+#: include/team-member-post-type.php:12
+msgid "View Team Member"
+msgstr ""
+
+#: include/team-member-post-type.php:13
+msgid "Search Team Member"
+msgstr ""
+
+#: include/team-member-post-type.php:14
+msgid "No Team Member found"
+msgstr ""
+
+#: include/team-member-post-type.php:15
+msgid "No Team Member found in Trash"
+msgstr ""
+
+#: include/team-member-post-type.php:31
+msgid "team-member"
+msgstr ""
+
+#: include/team-member-post-type.php:45
+msgid "Team Member Name"
+msgstr ""
+
+#: include/team-member-post-type.php:80
+msgid "NA"
+msgstr ""
+
+#: js/localized-js.php:18 js/localized-js.php:45
+msgid "Go to..."
+msgstr ""
+
+#: page.php:60 single-event.php:113 single-team-member.php:53 single.php:97
+#: template-full-width.php:34 template-left-sidebar.php:65
+msgid "Pages"
+msgstr ""
+
+#: search.php:13
+msgid "Search results for"
+msgstr ""
+
+#: search.php:42
+msgid "No Posts Found, Please try another search term!"
+msgstr ""
+
+#: sections/gallery.php:18
+msgid "Gallery Items with Type "
+msgstr ""
+
+#: sections/gallery.php:61
+msgid "All"
+msgstr ""
+
+#: sections/gallery.php:70
+#, php-format
+msgid "View all Gallery Items filed under %s"
+msgstr ""
+
+#: single-event.php:65 template-parts/event_for_list.php:42
+msgid "Start Date:"
+msgstr ""
+
+#: single-event.php:69 template-parts/event_for_list.php:46
+msgid "Dates:"
+msgstr ""
+
+#: single-event.php:69 single-event.php:74
+#: template-parts/event_for_list.php:46 template-parts/event_for_list.php:51
+msgid "-"
+msgstr ""
+
+#: single-event.php:74 template-parts/event_for_list.php:51
+msgid "Time:"
+msgstr ""
+
+#: single-team-member.php:13
+msgid "Our Team"
+msgstr ""
+
+#: single.php:50 template-parts/blog_post_for_list.php:23
+msgid "Posted in:"
+msgstr ""
+
+#: single.php:58 template-parts/blog_post_for_list.php:30
+msgid "0 Comments"
+msgstr ""
+
+#: single.php:58 template-parts/blog_post_for_list.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: single.php:58 template-parts/blog_post_for_list.php:30
+msgid "% Comments"
+msgstr ""
+
+#: template-contact.php:118
+msgid "Your Name"
+msgstr ""
+
+#: template-contact.php:119
+msgid "* Please enter your name"
+msgstr ""
+
+#: template-contact.php:123
+msgid "Phone Number"
+msgstr ""
+
+#: template-contact.php:128 template-reservation.php:59
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:129
+msgid "* Please enter your email address"
+msgstr ""
+
+#: template-contact.php:133
+msgid "Subject"
+msgstr ""
+
+#: template-contact.php:138
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:139
+msgid "* Please enter your message"
+msgstr ""
+
+#: template-contact.php:142 template-reservation.php:83
+msgid "Are you human?"
+msgstr ""
+
+#: template-contact.php:144
+msgid "* Please enter the code characters displayed in image!"
+msgstr ""
+
+#: template-contact.php:147
+msgid "Send Message"
+msgstr ""
+
+#: template-events.php:60 template-past-events.php:62
+#: template-upcoming-events.php:62
+msgid "No Event Found !"
+msgstr ""
+
+#: template-parts/blog_post_for_list.php:67
+#: template-parts/event_for_list.php:87
+#: template-parts/menu_item_for_list.php:27
+#: template-parts/post_for_search.php:57
+#: widgets/featured-menu-items-widget.php:64
+#: widgets/recent-posts-widget.php:77 widgets/upcoming-events-widget.php:69
+msgid "Read More"
+msgstr ""
+
+#: template-reservation.php:49
+msgid "Name"
+msgstr ""
+
+#: template-reservation.php:50
+msgid "* Please enter your Name"
+msgstr ""
+
+#: template-reservation.php:54
+msgid "Phone"
+msgstr ""
+
+#: template-reservation.php:55
+msgid "* Please enter your Phone number"
+msgstr ""
+
+#: template-reservation.php:60
+msgid "* Please enter your Email address"
+msgstr ""
+
+#: template-reservation.php:64
+msgid "Number of Guests"
+msgstr ""
+
+#: template-reservation.php:65
+msgid "* Please enter Number of Guests"
+msgstr ""
+
+#: template-reservation.php:71
+msgid "* Please choose Date"
+msgstr ""
+
+#: template-reservation.php:75
+msgid "Time"
+msgstr ""
+
+#: template-reservation.php:76
+msgid "* Please specify Time"
+msgstr ""
+
+#: template-reservation.php:79
+msgid "Special Request"
+msgstr ""
+
+#: template-reservation.php:85
+msgid "* Please enter the code characters displayed in image"
+msgstr ""
+
+#: template-reservation.php:88
+msgid "MAKE RESERVATION NOW"
+msgstr ""
+
+#: template-reservation.php:89
+msgid "Loading..."
+msgstr ""
+
+#: widgets/featured-menu-items-widget.php:6
+msgid "Displays list of featured menu items."
+msgstr ""
+
+#: widgets/featured-menu-items-widget.php:7
+msgid "Elegantia: Featured Menu Items"
+msgstr ""
+
+#: widgets/featured-menu-items-widget.php:84
+#: widgets/menu-item-types-widget.php:15 widgets/recent-posts-widget.php:99
+#: widgets/upcoming-events-widget.php:88
+msgid "Title"
+msgstr ""
+
+#: widgets/featured-menu-items-widget.php:89
+msgid "Number of Menu Items to display"
+msgstr ""
+
+#: widgets/menu-item-types-widget.php:5
+msgid "Displays List of Menu Types with links to their archive pages."
+msgstr ""
+
+#: widgets/recent-posts-widget.php:6
+msgid "Show Recent or Popular or Random posts from your blog with thumbnails."
+msgstr ""
+
+#: widgets/recent-posts-widget.php:7
+msgid "Elegantia: Recent Posts With Thumbnail"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:103
+msgid "Select Categories"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:121
+msgid "Sort them by"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:123
+msgid "Most Popular"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:124
+msgid "Most Recent"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:125
+msgid "Random"
+msgstr ""
+
+#: widgets/recent-posts-widget.php:131
+msgid "Number of posts to display"
+msgstr ""
+
+#: widgets/upcoming-events-widget.php:6
+msgid "Displays list of Upcoming Events."
+msgstr ""
+
+#: widgets/upcoming-events-widget.php:7
+msgid "Elegantia: Upcoming Events"
+msgstr ""
+
+#: widgets/upcoming-events-widget.php:93
+msgid "Number of Upcoming Events to display"
+msgstr ""

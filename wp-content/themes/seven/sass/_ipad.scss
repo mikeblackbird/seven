@@ -1,0 +1,281 @@
+
+/*	Layouts ------------------------------------------------------------------------------------------*/
+
+#container {
+  width: 730px;
+  padding: 5px;
+}
+
+.content {
+  width: 648px;
+  padding: 0px 40px;
+}
+
+#main-content {
+  width: 408px;
+}
+
+
+
+/*	Header -------------------------------------------------------------------------------------------*/
+
+#header {
+  width: 740px;
+
+  #logo {
+    width: 184px;
+    margin: 20px auto 0px;
+  }
+
+  h6 {
+    right: 0px;
+  }
+
+  .main-menu {
+    &.left > div > ul > li {
+      padding: 0px 5px 23px 0px;
+    }
+    &.right > div > ul > li {
+      padding: 0px 0px 23px 5px;
+    }
+    > div > ul > li > a {
+      font-size: 14px;
+      background: none;
+    }
+    &.left > div > ul > li > a {
+      padding-right: 10px;
+    }
+    &.right > div > ul > li > a {
+      padding-left: 10px;
+    }
+    .sub-menu{
+      width: 160px;
+      .menu-item {
+        padding: 7px 10px 7px 10px;
+        > a {
+          font-size: 12px;
+        }
+        .sub-menu {
+          top: 0px;
+          left: 160px;
+        }
+      }
+    }
+  }
+}
+
+
+
+/* Home Page -------------------------------------------------------------------------------------------*/
+
+.bottom-strip {
+  width: 740px;
+}
+
+/* Template Items --------------------------------------------------------------------*/
+
+ul.template-items {
+  margin: 0px 0px 25px -30px;
+  li {
+    width: 196px;
+    margin-left: 30px;
+    figure {
+      background-color: #f0f1f2;
+      padding: 5px 3px 5px 5px;
+      margin: 0px 0px 20px 1px;
+    }
+    a img {
+      width: 179px;
+      height: auto;
+    }
+  }
+}
+
+
+/* Carousel --------------------------------------------------------------------*/
+
+.carousel {
+  width: 648px;
+}
+.es-carousel {
+  width: 608px;
+  height: 170px;
+  li {
+    width: 92px !important;
+  }
+}
+
+
+
+/* Footer ---------------------------------------------------------------------*/
+
+#footer {
+  width: 740px;
+  padding: 18px 0px 59px;
+  ul li {
+    margin-right: 12px;
+  }
+}
+
+/* Gallery Pages ----------------------------------------------------------------------------------------*/
+
+.gallery-2-columns {
+   margin-left: -20px;
+   .gallery-item {
+     width: 314px;
+     margin-left: 20px;
+     img{
+       width: 302px;
+     }
+   }
+ }
+
+.gallery-3-columns {
+  margin-left: -20px;
+  .gallery-item {
+    width: 202px;
+    margin-left: 20px;
+    img{
+      width: 190px;
+    }
+  }
+}
+
+.gallery-4-columns {
+  margin-left: -15px;
+  .gallery-item {
+    width: 150px;
+    margin-left: 15px;
+    img{
+      width: 138px;
+    }
+  }
+}
+
+
+/*	About Us Page ----------------------------------------------------------------------------------------*/
+
+#main-content article img {
+  height: auto;
+}
+
+
+/*	Contact Us Page --------------------------------------------------------------------------------------*/
+
+#map_canvas {
+  width: 383px;
+  height: 250px;
+  margin-left: 1px;
+}
+
+.contact-form {
+  width: 396px;
+  padding-left: 2px;
+  p {
+    &.name, &.email {
+      margin-right: 0px;
+    }
+    float: none;
+    width: 100%;
+  }
+  input[type="text"] {
+    width: 212px;
+  }
+  #message {
+    width: 370px;
+  }
+}
+
+
+/*	Our Menu Page ------------------------------------------------------------------------------------*/
+
+.our-menu {
+  #main-content article {
+    padding: 18px 0px;
+    img.alignleft {
+      height: auto;
+      margin: 5px 15px 15px 0px;
+    }
+    .post-content {
+      width: 195px;
+    }
+  }
+}
+
+.single-menu-item .news .post-head {
+  width: 330px;
+}
+
+
+/*	Event Listing Page ----------------------------------------------------------------------------------*/
+
+.event-listing article .post-content {
+  width: 322px;
+  padding-bottom: 30px;
+}
+
+
+
+/*	Event Listing Page --------------------------------------------------------------------------------*/
+
+.event-single .date {
+  margin: 0px 18px 2px 1px;
+}
+
+
+/*	News Page --------------------------------------------------------------------------------------*/
+
+.news {
+  article {
+
+  }
+  .date {
+    margin: 0;
+  }
+  .post-head {
+    width: 242px;
+  }
+}
+
+
+
+/*	18. Comments --------------------------------------------------------------------*/
+
+#comments {
+  .comment {
+    .avatar {
+      width: 60px;
+      height: 60px;
+    }
+    .comment-body, .comment-meta {
+      width: 78%;
+      text-align: left;
+    }
+    .children .comment:first-child {
+      margin-top: 0;
+    }
+  }
+  .commentlist .children {
+    .depth-2 {
+      .comment-body, .comment-meta {
+        width: 72%;
+      }
+    }
+    .depth-3 {
+      .comment-body, .comment-meta {
+        width: 62%;
+      }
+    }
+    .depth-4 {
+      .comment-body, .comment-meta {
+        width: 50%;
+      }
+    }
+    .depth-5 {
+      .comment-body, .comment-meta {
+        width: 42%;
+      }
+    }
+  }
+}
+

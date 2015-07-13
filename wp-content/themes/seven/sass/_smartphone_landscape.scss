@@ -1,0 +1,41 @@
+/*-------------------------------------------------------------------------------------------------------*/
+/*	Layouts
+/*-------------------------------------------------------------------------------------------------------*/
+#container {
+  width: 430px;
+  padding: 5px;
+}
+
+.content {
+  width: 348px;
+  padding: 0px 40px;
+}
+
+#sidebar {
+  width: 348px;
+  padding: 25px 0px;
+  text-align: center;
+}
+
+#main-content {
+  width: 348px;
+  padding: 0px 0px 40px;
+  background: url(../images/sep-line-stars.png) no-repeat center bottom;
+  text-align: left;
+}
+
+
+/* Sidebar Right  ------------------------------------------------------------------------------------*/
+.content.right {
+  #sidebar {
+    float: right;
+    background: none;
+    width: 348px;
+    padding: 25px 0px;
+  }
+  #main-content {
+    float: left;
+    width: 348px;
+    margin-right: 0px;
+  }
+}

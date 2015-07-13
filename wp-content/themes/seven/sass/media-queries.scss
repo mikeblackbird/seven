@@ -1,0 +1,111 @@
+/* Tablet Portrait size 768 to standard 979 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+  @import "ipad";
+}
+
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  @import "smartphone";
+}
+
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  @import "smartphone_landscape";
+}
+
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  @import "smartphone_portrait";
+}
+
+
+
+/* Opera */
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0) {
+  #sidebar .social li {
+    vertical-align: middle;
+  }
+}
+
+
+/* Safari */
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  #comments .comment .avatar {
+    border: none;
+  }
+}
+
+
+/* --------------------------------------------------------------
+   Responsive Tables by ZURB
+   Foundation v2.1.4 http://foundation.zurb.com  by ZURB 
+   -------------------------------------------------------------- */
+@media only screen and (max-width: 767px) {
+
+  table.responsive {
+    margin-bottom: 0;
+  }
+
+  .pinned {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #fff;
+    width: 35%;
+    overflow: hidden;
+    overflow-x: scroll;
+    border-right: 1px solid #fbdfaa;
+    border-left: 1px solid #fbdfaa;
+    table {
+      border-right: none;
+      border-left: none;
+      width: 100%;
+      th, td {
+        white-space: nowrap;
+      }
+    }
+    td:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  div.table-wrapper {
+    position: relative;
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-right: 1px solid #fbdfaa;
+    div.scrollable {
+      table {
+        margin-left: 35%;
+      }
+      overflow: scroll;
+      overflow-y: hidden;
+    }
+  }
+
+  table.responsive {
+    td {
+      position: relative;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    th {
+      position: relative;
+      white-space: nowrap;
+      overflow: hidden;
+      &:first-child {
+        display: none;
+      }
+    }
+    td:first-child, &.pinned td {
+      display: none;
+    }
+  }
+
+}

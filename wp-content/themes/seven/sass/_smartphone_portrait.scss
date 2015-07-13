@@ -1,0 +1,205 @@
+
+/*	Layouts difference 320 -------------------------------------------------------------------------------*/
+
+#container {
+  width: 280px;
+  padding: 5px;
+}
+
+.content {
+  width: 238px;
+  padding: 0px 20px;
+}
+
+#main-content {
+  width: 238px;
+  padding: 0px 0px 40px;
+  background: url(../images/sep-line-stars.png) no-repeat center bottom;
+  text-align: left;
+}
+
+#sidebar {
+  width: 238px;
+  padding: 25px 0px;
+  text-align: center;
+}
+
+/* Sidebar Rigth  ------------------------------------------------------------------------------------*/
+
+.content.right {
+  #sidebar {
+    float: right;
+    background: none;
+    width: 238px;
+    padding: 25px 0px;
+  }
+  #main-content {
+    float: left;
+    width: 238px;
+    margin-right: 0px;
+  }
+}
+
+
+/*	Header ---------------------------------------------------------------------------------------------*/
+
+#header {
+  width: 290px;
+}
+
+
+
+/* Slider Nav ----------------------------------------------------------------------------------------------*/
+
+.flex-direction-nav li a {
+  position: absolute;
+  top: 50%;
+  width: 17px;
+  height: 32px;
+  margin-top: -16px;
+  background: url(../images/slider-nav-2.png) no-repeat 0px 0px;
+  &.flex-next {
+    background-position: -25px 0px;
+    right: -6px;
+  }
+  &.flex-prev {
+    background-position: 0px 0px;
+    left: 0px;
+  }
+  &.flex-next:hover {
+    background-position: -25px 0px;
+  }
+  &.flex-prev:hover {
+    background-position: 0px 0px;
+  }
+}
+
+
+/* Bottom Strip ------------------------------------------------------------------------------------------*/
+
+.bottom-strip {
+  width: 290px;
+}
+
+
+/* Template Items ----------------------------------------------------------------------------------------*/
+
+ul.template-items {
+  li {
+    width: 238px;
+    a img {
+      width: auto;
+      height: auto;
+    }
+  }
+}
+
+
+/* Carousel ----------------------------------------------------------------------------------------------*/
+
+.carousel {
+  width: 238px;
+}
+.es-carousel {
+  width: 206px;
+  height: 170px;
+  li {
+    width: 95px !important;
+  }
+}
+
+/* Gallery Pages ----------------------------------------------------------------------------------------*/
+
+.gallery-2-columns {
+  .gallery-item {
+    width: 238px;
+    img{
+      width: 226px;
+    }
+  }
+}
+
+.gallery-3-columns {
+  margin-left: 0;
+  .gallery-item {
+    width: 238px;
+    margin-left: 0;
+    img{
+      width: 226px;
+    }
+  }
+}
+
+.gallery-4-columns {
+  margin-left: 0;
+  .gallery-item {
+    width: 238px;
+    margin-left: 0;
+    figure{
+      width: 190px;
+      margin: 0 auto;
+      img{
+        width: 178px;
+      }
+    }
+  }
+}
+
+
+
+/*	Footer ----------------------------------------------------------------------------------------------*/
+
+#footer {
+  width: 290px;
+}
+
+
+/*	Contact Us Page ----------------------------------------------------------------------------------*/
+
+#map_canvas {
+  width: 224px;
+  height: 224px;
+}
+
+.contact-form {
+  width: 236px;
+  padding-left: 2px;
+  p {
+    &.name, &.email {
+      margin-right: 0px;
+    }
+    float: none;
+    width: 100%;
+  }
+  input[type="text"], #message {
+    width: 220px;
+  }
+}
+
+.contact-form #contact-loader {
+  left: 188px;
+}
+
+#reservation-form .contact-form #contact-loader {
+  left: 210px;
+}
+
+
+
+/*	Tabs -----------------------------------------------------------------------------------------------*/
+
+.tabs-nav li a { padding: 0 5px; }
+
+
+/*	General -----------------------------------------------------------------------------------------------*/
+
+blockquote {
+  background: none;
+  padding: 20px 15px;
+  font-style: italic;
+}
+
+.content img{
+  width: auto;
+  height: auto;
+}
